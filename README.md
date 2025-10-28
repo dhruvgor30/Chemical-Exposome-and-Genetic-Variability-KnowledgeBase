@@ -1,2 +1,2 @@
 # Chemical-exposomebase
-A repository of codes to direct you from the raw variant and chemical data to a well defined exposome knowledge-base 
+This repository contains the code and methodologies employed to transform raw variant and chemical data into a comprehensive exposome knowledgebase that facilitates querying, data collection, and dynamic relationship visualization in a user-friendly shiny interface.
