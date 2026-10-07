@@ -13,7 +13,7 @@ The underlying data are structured within a relational SQLite database, enabling
 - Data type: Genomic variant data (VCF format)
 - Version: Latest available release (GRCh38; 1000 Genomes Project, Phase 3)
 - Description: Provides high-resolution genetic variation data across diverse human populations, including single nucleotide polymorphisms (SNPs), insertions/deletions (indels), and structural variants. This dataset underpins the population genetics and variant-level analyses conducted in this project.
-- Source: [Ensembl 1000 Genomes Project](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/)
+    - Source: [Ensembl 1000 Genomes Project](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/)
 
 2. Toxin and Toxin Target Database (T3DB)
 
